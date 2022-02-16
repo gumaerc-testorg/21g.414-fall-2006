@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef
 ---
@@ -235,7 +238,7 @@ Das O-Ton Hörspiel am Bespiel von "Preislied" von Paul Wühr und "Apollo Amerik
 
 ### Neues Hörspiel - O-Ton Hörspiel
 
-Bevor Sie sich das „Preislied“ von Paul Wühr anhören, lesen Sie zuerst die Beschreibung zum Hörspiel auf dem Kurswebsite und dann seine Rede zur Verleihung des Hörspielpreises der Kriegsblinden „Die Entstehung des <<Preislieds>>“ am Ende des Texthefts von „Preislied“ (S. 49-53).
+Bevor Sie sich das „Preislied“ von Paul Wühr anhören, lesen Sie zuerst die Beschreibung zum Hörspiel auf dem Kurswebsite und dann seine Rede zur Verleihung des Hörspielpreises der Kriegsblinden „Die Entstehung des \<\<Preislieds>>“ am Ende des Texthefts von „Preislied“ (S. 49-53).
 
 Hören Sie sich dann das ca. 50 Minuten lange Hörstück an. Sie können es mit oder ohne den Text anhören. Achten Sie besonders auf die Struktur des Hörstücks und den Gebrauch von Musik. Was versucht Paul Wühr Ihrer Meinung nach mit diesem Hörspiel zu erreichen? Wie geht er mit den Aussagen der Sprecher um? Versuchen Sie, diese und andere Fragen in Ihrem Kommentar auf dem Kurswebsite anzusprechen.
 
