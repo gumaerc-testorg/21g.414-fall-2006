@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides an example final project completed by a student.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

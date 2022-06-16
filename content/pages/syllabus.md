@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading, the schedule of course topics, and a statement on plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -116,7 +118,7 @@ Einführung in den Kurs
 Kurzfilm und Hörspiel: Definition und Geschichte
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabenstellung]({{< baseurl >}}/pages/assignments#2)
+{{% resource_link 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef "Aufgabenstellung" "#2" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +130,7 @@ Kurzfilm und Hörspiel: Definition und Geschichte
 Kurzfilm-Festivals, Filmhochschulen Genre: Kriminalhörspiele
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabenstellung]({{< baseurl >}}/pages/assignments#3)
+{{% resource_link 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef "Aufgabenstellung" "#3" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +142,7 @@ Kurzfilm-Festivals, Filmhochschulen Genre: Kriminalhörspiele
 Vom Text zum Film: Umsetzung eines Textes in einen Film am Beispiel „Freundinnen“
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabenstellung]({{< baseurl >}}/pages/assignments#4)
+{{% resource_link 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef "Aufgabenstellung" "#4" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +154,7 @@ Vom Text zum Film: Umsetzung eines Textes in einen Film am Beispiel „Freundinn
 Kurzfilme: "Meine Eltern," "Abhaun!" und "Fragile"
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabenstellung]({{< baseurl >}}/pages/assignments#5)
+{{% resource_link 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef "Aufgabenstellung" "#5" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +166,7 @@ Kurzfilme: "Meine Eltern," "Abhaun!" und "Fragile"
 Produktion eines Hörspiels, erste Entwürfe zu einem eigenen Hörspiel/Kurzfilm
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabenstellung]({{< baseurl >}}/pages/assignments#6)
+{{% resource_link 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef "Aufgabenstellung" "#6" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +178,7 @@ Produktion eines Hörspiels, erste Entwürfe zu einem eigenen Hörspiel/Kurzfilm
 Schriftstellerin und Hörspiel-Autorin Esther Dischereit zu Gast in unserem Kurs
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabenstellung]({{< baseurl >}}/pages/assignments#7)
+{{% resource_link 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef "Aufgabenstellung" "#7" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +190,7 @@ Schriftstellerin und Hörspiel-Autorin Esther Dischereit zu Gast in unserem Kurs
 Kurzfilme von internationalen Künstlern in Deutschland
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabenstellung]({{< baseurl >}}/pages/assignments#8)
+{{% resource_link 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef "Aufgabenstellung" "#8" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +202,7 @@ Kurzfilme von internationalen Künstlern in Deutschland
 Das O-Ton Hörspiel am Bespiel von "Preislied" von Paul Wühr und "Apollo Amerika" von Ferdinand Kriwet
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabenstellung]({{< baseurl >}}/pages/assignments#9)
+{{% resource_link 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef "Aufgabenstellung" "#9" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,7 +214,7 @@ Das O-Ton Hörspiel am Bespiel von "Preislied" von Paul Wühr und "Apollo Amerik
 Experimenteller Kurzfilm am Beispiel der Filme
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabenstellung]({{< baseurl >}}/pages/assignments#10)
+{{% resource_link 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef "Aufgabenstellung" "#10" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +226,7 @@ Experimenteller Kurzfilm am Beispiel der Filme
 Vorbereitung zur Hörspiel-/Kurzfilmproduktion
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabenstellung]({{< baseurl >}}/pages/assignments#11)
+{{% resource_link 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef "Aufgabenstellung" "#11" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +238,7 @@ Vorbereitung zur Hörspiel-/Kurzfilmproduktion
 Berliner sehen, intermedium Festival, Animationsfilme
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabenstellung]({{< baseurl >}}/pages/assignments#12)
+{{% resource_link 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef "Aufgabenstellung" "#12" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +250,7 @@ Berliner sehen, intermedium Festival, Animationsfilme
 Neue on-line Formen des Hörspiels, Podcasts, Neue Kurzfilmformate
 {{< tdclose >}}
 {{< tdopen >}}
-[Aufgabenstellung]({{< baseurl >}}/pages/assignments#13)
+{{% resource_link 8a9ba8da-1b13-0055-fc02-e0b06d3ff8ef "Aufgabenstellung" "#13" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

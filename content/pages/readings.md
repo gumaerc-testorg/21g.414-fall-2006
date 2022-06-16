@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the readings, films, and other online
+  materials used for each session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
