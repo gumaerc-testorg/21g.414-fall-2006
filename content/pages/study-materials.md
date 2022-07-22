@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides all the short films and radio plays used for the
+  course. It also includes some historical and general texts on radio plays.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 814b93a9-a7e1-87b2-459c-57ff75da4626
 ---

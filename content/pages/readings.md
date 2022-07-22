@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the readings, films, and other online
+  materials used for each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7aec4f24-1f46-3901-fdb1-e31967fb721e
 ---

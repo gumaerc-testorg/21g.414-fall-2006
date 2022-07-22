@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides an example final project completed by a student.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: d1d4a37d-9853-0a5e-f70e-2fe414facf85
 ---

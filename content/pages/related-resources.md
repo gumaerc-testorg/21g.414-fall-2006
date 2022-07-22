@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to related resources for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 5197ef28-fbc2-a8a4-e729-de506301e0fd
 ---
@@ -21,7 +24,7 @@ Zum Hörspiel / zur Radiokunst
 
 [Radio online hören](http://web.ard.de/radio/radionet/index.php?ressort=hoerspiel)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Geschichte des Hörspiels (Mitteldeutscher Rundfunk) (PDF)](https://www.hdm-stuttgart.de/~curdt/Hoerspiel_Szczypula.pdf)
+[Geschichte des Hörspiels (Mitteldeutscher Rundfunk) (PDF)](https://www.hdm-stuttgart.de/~curdt/Hoerspiel_Szczypula.pdf)
 
 [Soundarchiv im Netz](http://www.hoerspielbox.de/frameset.htm)
 
