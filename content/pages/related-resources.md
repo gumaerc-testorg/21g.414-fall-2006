@@ -1,14 +1,13 @@
 ---
 content_type: page
 description: This section provides links to related resources for the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 5197ef28-fbc2-a8a4-e729-de506301e0fd
 ---
-
-Zum Hörspiel / zur Radiokunst
------------------------------
+## Zum Hörspiel / zur Radiokunst
 
 [Das Hörspiel von MediaCulture online.](http://www.mediaculture-online.de/Das_H_rspiel.44.0.html)
 
@@ -22,9 +21,7 @@ Zum Hörspiel / zur Radiokunst
 
 [Hörspiel-Links des MDR](http://www.mdr.de/mdr-figaro/hoerspiel/139819.html)
 
-[Radio online hören](http://web.ard.de/radio/radionet/index.php?ressort=hoerspiel)
-
-[Geschichte des Hörspiels (Mitteldeutscher Rundfunk) (PDF)](https://www.hdm-stuttgart.de/~curdt/Hoerspiel_Szczypula.pdf)
+[Radio online hören](https://www.ardaudiothek.de/radio/)
 
 [Soundarchiv im Netz](http://www.hoerspielbox.de/frameset.htm)
 
@@ -34,8 +31,7 @@ Zum Hörspiel / zur Radiokunst
 
 [Medi@Culture-Online](http://www.mediaculture-online.de/)
 
-Zum Kurzfilm
-------------
+## Zum Kurzfilm
 
 [shortfilm.de - Das Kurzfilmmagazin](http://www.shortfilm.de/)
 
@@ -43,8 +39,7 @@ Zum Kurzfilm
 
 [Artikel zu Matthias Müller (shortfilm.de)](http://www.kurzfilmtage.de/)
 
-Kurzfilm-Festivals
-------------------
+## Kurzfilm-Festivals
 
 [Liste sämtlicher Kurzfilmfestivals auf Wikipedia](http://de.wikipedia.org/wiki/Kurzfilmfestival)
 
@@ -62,25 +57,24 @@ Kurzfilm-Festivals
 
 [Internationales Festival der Filmhochschulen, München](http://www.filmschoolfest-munich.de/rc/HFF_DE/home/index.asp)
 
-[Internationales Kurzfilmfestival Hamburg](http://www.shortfilm.com/index.php?id=ikffhome&L=0)
+[Internationales Kurzfilmfestival Hamburg](https://festival.shortfilm.com/en)
 
 [Filmfestival Münster](https://web.archive.org/web/20131005035224/http://www.filmfestival.muenster.de/_2005_/)
 
 [Internationales Kurzfilmfestival Berlin](http://www.interfilm.de/festival2009)
 
-Fernseh- und Radiosender
-------------------------
+## Fernseh- und Radiosender
 
-[arte](http://www.arte.tv/fr) (Deutschland/Frankreich)  
+[arte](http://www.arte.tv/fr) (Deutschland/Frankreich)    
 besonders zu empfehlen: [Kurzschluß](http://www.arte.tv/de/film/kurzschluss/184414.html)\- Das Kurzfilm-Magazin
 
 [3sat](http://www.3sat.de/) (Deutschland/Österreich/Schweiz)
 
 [ARD](http://www.daserste.de/) (1. Progamm)
 
-[ZDF](http://www.zdf.de) (2. Programm)
+[ZDF](http://www.zdf.de/) (2. Programm)
 
-_Die Dritten (Regionalprogramme - Fernsehen)_
+*Die Dritten (Regionalprogramme - Fernsehen)*
 
 [Bayerisches Fernsehen](http://www.br-online.de/)
 
@@ -90,9 +84,8 @@ _Die Dritten (Regionalprogramme - Fernsehen)_
 
 [WDR Web-TV](http://www.wdr.de/themen/homepages/webtv.jhtml)
 
-Zu Dürrenmatts "Abendstunde im Spätherbst"
-------------------------------------------
+## Zu Dürrenmatts "Abendstunde im Spätherbst"
 
-[Kriminaltheater Berlin](http://www.kriminaltheater.de/ )
+[Kriminaltheater Berlin](http://www.kriminaltheater.de/)
 
-[Biographie/Werkverzeichnis (Uni Karlsruhe)](http://www.lehrer.uni-karlsruhe.de/~za874/homepage/duerrenmatt.htm)
+[Biographie/Werkverzeichnis (Uni Karlsruhe)](https://web.archive.org/web/20210610051000/https://www.lehrer.uni-karlsruhe.de/~za874/homepage/duerrenmatt.htm)
