@@ -37,7 +37,7 @@ Kurzfilm und Hörspiel: Definition und Geschichte
 {{< anchor "2" >}}{{< /anchor >}}
 
 1.  Kommentieren sie die beiden Kurzfilme „Die Frau vom vierten Foto unten rechts“ und „Anna, Frau.“ Gehen Sie dabei auf die Tatsache ein, dass einer der Filme keinen Dialog verwendet, der andere nur sehr spärlich. Versuchen Sie die Gedanken aufzuschreiben, die den Protagonisten in beiden Filmen durch den Kopf gehen. Ist der Film in seiner Kürze als Geschichte gelungen? Schreiben Sie Ihre Kommentare auf dem Kurswebsite.
-2.  Hören Sie sich mindesten 5 der Weekend 2006 Produktionen aus dem [hör!spiel!art.mix Podcast](http://www.br-online.de/br-intern/thema/download/hoerspielartmix.xml) des Bayerischen Rundfunks an. Vergleichen Sie sie mit dem Original von Walter Ruttmann, das Sie im Sprachlabor finden oder in Ausschnitten auch auf dem deutschen Site [Medienkunstnetz](http://www.medienkunstnetz.de/werke/weekend/). Was ist neu? Welche Geräusche, Stimmen verwenden die Neuproduktionen? Wie unterscheidet sich der Eindruck, die Aussage vom Original? Schreiben Sie Ihre Kommentare auf ein Blatt Papier.
+2.  Hören Sie sich mindesten 5 der Weekend 2006 Produktionen aus dem {{% resource_link "e95ca3f6-88f5-45fc-93ec-90fa63994871" "hör!spiel!art.mix Podcast" %}} des Bayerischen Rundfunks an. Vergleichen Sie sie mit dem Original von Walter Ruttmann, das Sie im Sprachlabor finden oder in Ausschnitten auch auf dem deutschen Site {{% resource_link "a5588e08-693b-49d9-b2a5-7098f5be63f0" "Medienkunstnetz" %}}. Was ist neu? Welche Geräusche, Stimmen verwenden die Neuproduktionen? Wie unterscheidet sich der Eindruck, die Aussage vom Original? Schreiben Sie Ihre Kommentare auf ein Blatt Papier.
 3.  Sehen Sie sich die Kurzfilme „NDR Bester Kurzfilm,“ „Princes(s),“ „Richtung Leben,“ und „37 ohne Zwiebeln“ an und kommentieren Sie einen davon auf dem Kurswebsite.
 
 
@@ -60,7 +60,7 @@ Kurzfilm-Festivals, Filmhochschulen Genre: Kriminalhörspiele
     
     Lesen Sie dazu:  
     ARD Information 2006  
-    Die Web sites: [ARD](http://www.ard.de/), [ZDF](http://www.zdf.de/), [3sat](http://www.3sat.de/), [ARTE](http://www.arte.tv/fr)  
+    Die Web sites: {{% resource_link "b551b414-a78e-42bb-b1f5-e7409d404ea2" "ARD" %}}, {{% resource_link "fdea2432-4012-446a-9236-84bed74d90d7" "ZDF" %}}, {{% resource_link "beb2101d-43de-48b5-9947-742d5576c7c2" "3sat" %}}, {{% resource_link "c4c7bac6-9af0-477c-b5bf-0bf24f5c92c7" "ARTE" %}}  
       
     Machen Sie sich Nozizen dergestalt, dass Sie im Kurs einen Über-blick über die Rundfunk und Fernsehlandschaft Deutschlands geben können.
     
@@ -70,7 +70,7 @@ Kurzfilm-Festivals, Filmhochschulen Genre: Kriminalhörspiele
 
 ### Kurzfilm
 
-Lesen Sie „[Was ist Kino, was ist Kurzfilm?](http://www.shortfilm.de/index.php?id=2195&L=2)“
+Lesen Sie „{{% resource_link "b03cfd91-2a35-4fd9-9b48-9c1f4be1cb57" "Was ist Kino, was ist Kurzfilm?" %}}“
 
 Und: Schlafes Bruder? Der Kurzfilm in den Dritten Programmen
 
@@ -120,15 +120,15 @@ Kurzfilme: "Meine Eltern," "Abhaun!" und "Fragile"
         
     *   Wie überzeugend stellt der Film die Beziehungen dar?
         
-2.  Sehen Sie sich den Website der Oberhausener Internationalen Kurzfilmtagen an, dem ältesten Kurzfilmfestival im deutschsprachigen Raum:[Internationale Kurtzfilmtage Oberhausen](http://www.kurzfilmtage.de/)
+2.  Sehen Sie sich den Website der Oberhausener Internationalen Kurzfilmtagen an, dem ältesten Kurzfilmfestival im deutschsprachigen Raum:{{% resource_link "a9f6e661-7a0c-4079-88ce-90068c85471a" "Internationale Kurtzfilmtage Oberhausen" %}}
 
 ### Radiokunst
 
 4.  Sehen Sie sich die Web sites zu „Wie entsteht ein Hörspiel“ an:
     
-    [Hörspielwerkstatt: So entsteht ein Hörspiel | Kultur & Szene | BR](http://www.br-online.de/)
+    {{% resource_link "a8611b04-1466-4d67-a2f9-0e65a55696e9" "Hörspielwerkstatt: So entsteht ein Hörspiel | Kultur & Szene | BR" %}}
     
-    [Mediaculture-online: Produktion eines Hörspiels](http://www.mediaculture-online.de/Produktion_eines_Hoerspiels.315.0.html) (eigentlich für den Schulunterricht gedacht)
+    {{% resource_link "31872dee-55b2-4b28-9490-e0e25732e3e4" "Mediaculture-online: Produktion eines Hörspiels" %}} (eigentlich für den Schulunterricht gedacht)
     
 5.  Entwickeln Sie ein paar Ideen für ein Kurzhörspiel/einen Kurzfilm und bringen Sie Ihre Ideen zum Kurs am Mittwoch mit.
 
@@ -156,7 +156,7 @@ Versuchen Sie beide Hörspiele kurz auf dem Kurswebsite zu kommentieren:
 
 Im Kurs werden wir die beiden Hörspiele als Vorbereitung auf Esther's Besuch in unserem Seminar weiter diskutieren.
 
-Außerdem werden wir erste Ideen für die Hörspiel-/Kurzfilm-Projekte vorstellen und diskutieren. Überlegen Sie sich ein mögliches Format für Ihr Projekt: Handy-Kurzfilm, iPod Hörspiel, o.ä. Die Web sites "[So entsteht ein Hörspiel](http://www.br-online.de/)" sind dabei relevant.
+Außerdem werden wir erste Ideen für die Hörspiel-/Kurzfilm-Projekte vorstellen und diskutieren. Überlegen Sie sich ein mögliches Format für Ihr Projekt: Handy-Kurzfilm, iPod Hörspiel, o.ä. Die Web sites "{{% resource_link "a8611b04-1466-4d67-a2f9-0e65a55696e9" "So entsteht ein Hörspiel" %}}" sind dabei relevant.
 
 Ausserdem werden wir noch auf das Oberhausener Kurzfilm-Festival eingehen.
 
@@ -291,7 +291,7 @@ Vorbereitung zur Hörspiel-/Kurzfilmproduktion
 {{< anchor "11" >}}{{< /anchor >}}
 
 1.  Schreiben Sie einen Kommentar zum neuesten Video an der Video Test Wall in Gebäude 16. Schreiben Sie Ihren Kommentar direkt in das entsprechende Dokument in Google Docs.
-2.  Schreiben Sie eine Analyse zu [blogspiel](http://www.blogspiel.de/) direkt auf dem Kurswebsite unter der Rubrik Radiokunst.
+2.  Schreiben Sie eine Analyse zu {{% resource_link "e8f41645-8091-469a-bdf0-4c90243cd3c7" "blogspiel" %}} direkt auf dem Kurswebsite unter der Rubrik Radiokunst.
 
 
 {{< tdclose >}}
